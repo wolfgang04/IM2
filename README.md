@@ -184,10 +184,6 @@ Have ideas for improvement? Found a bug? Pull requests are welcome!
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 *Built with ❤️ for Mama Flor's Lechon House — because great food deserves great systems.*
